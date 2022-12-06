@@ -4,10 +4,10 @@
 
 **Autor:** Arica Dominguez Pedro Andre
 
-Tarjeta: Curiosity Nano PIC18f57q84
+**Tarjeta:** Curiosity Nano PIC18f57q84
 
-Entorno: MPLAB X IDE
+**Entorno:** MPLAB X IDE
 
-Lenguaje: AMS - C
+**Lenguaje:** AMS - C
 
-UNIVERSIDAD NACIONAL DE PIURA, PERÚ
+**UNIVERSIDAD NACIONAL DE PIURA, PERÚ**
