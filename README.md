@@ -17,7 +17,7 @@
 **UNIVERSIDAD NACIONAL DE PIURA, PERÚ**
 
 **Practicas Desarrolladas** 
--TE1:Librería para implementación de retardos
--TE2:Practica de puertos
-        -P1-Corrimiento_Leds
-        -P2-Display_7SEG
+TE1:Librería para implementación de retardos
+TE2:Practica de puertos
+        P1-Corrimiento_Leds
+        P2-Display_7SEG
