@@ -25,4 +25,9 @@ TE2:Practica de puertos
         P1-Corrimiento_Leds
         
         P2-Display_7SEG
+
+Parcial 2
+
+        Ejercicio2_Secuencia de Leds
+        
        
